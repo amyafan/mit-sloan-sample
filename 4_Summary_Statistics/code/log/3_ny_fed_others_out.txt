@@ -1,0 +1,652 @@
+coll_perc       0.043926
+coll_amt     7537.849952
+dtype: float64
+Done with quarter 1: 200509
+coll_perc       0.044264
+coll_amt     7468.200255
+dtype: float64
+Done with quarter 2: 200512
+coll_perc       0.042109
+coll_amt     7904.057470
+dtype: float64
+Done with quarter 3: 200603
+coll_perc       0.040631
+coll_amt     8337.087970
+dtype: float64
+Done with quarter 4: 200606
+coll_perc       0.041899
+coll_amt     8779.527443
+dtype: float64
+Done with quarter 5: 200609
+coll_perc       0.042971
+coll_amt     9458.637497
+dtype: float64
+Done with quarter 6: 200612
+coll_perc        0.043950
+coll_amt     10281.591281
+dtype: float64
+Done with quarter 7: 200703
+coll_perc        0.044424
+coll_amt     10995.598723
+dtype: float64
+Done with quarter 8: 200706
+coll_perc        0.044553
+coll_amt     12536.592234
+dtype: float64
+Done with quarter 9: 200709
+coll_perc        0.049412
+coll_amt     14169.522335
+dtype: float64
+Done with quarter 10: 200712
+coll_perc        0.047628
+coll_amt     18193.529249
+dtype: float64
+Done with quarter 11: 200803
+coll_perc        0.045568
+coll_amt     19663.500753
+dtype: float64
+Done with quarter 12: 200806
+coll_perc        0.046236
+coll_amt     22223.986499
+dtype: float64
+Done with quarter 13: 200809
+coll_perc        0.049074
+coll_amt     25673.883050
+dtype: float64
+Done with quarter 14: 200812
+coll_perc        0.051276
+coll_amt     30913.641283
+dtype: float64
+Done with quarter 15: 200903
+coll_perc        0.051732
+coll_amt     34994.908512
+dtype: float64
+Done with quarter 16: 200906
+coll_perc        0.052851
+coll_amt     38024.793694
+dtype: float64
+Done with quarter 17: 200909
+coll_perc        0.054723
+coll_amt     40384.264814
+dtype: float64
+Done with quarter 18: 200912
+coll_perc        0.054604
+coll_amt     43000.744668
+dtype: float64
+Done with quarter 19: 201003
+coll_perc        0.052944
+coll_amt     41916.081954
+dtype: float64
+Done with quarter 20: 201006
+coll_perc        0.052506
+coll_amt     39248.262786
+dtype: float64
+Done with quarter 21: 201009
+coll_perc        0.065215
+coll_amt     29883.935069
+dtype: float64
+Done with quarter 22: 201012
+coll_perc        0.049854
+coll_amt     38761.186771
+dtype: float64
+Done with quarter 23: 201103
+coll_perc        0.048464
+coll_amt     38299.435737
+dtype: float64
+Done with quarter 24: 201106
+coll_perc        0.048124
+coll_amt     37829.065369
+dtype: float64
+Done with quarter 25: 201109
+coll_perc        0.048053
+coll_amt     37178.292876
+dtype: float64
+Done with quarter 26: 201112
+coll_perc        0.048156
+coll_amt     35996.598578
+dtype: float64
+Done with quarter 27: 201203
+coll_perc        0.046866
+coll_amt     37672.988633
+dtype: float64
+Done with quarter 28: 201206
+coll_perc        0.047365
+coll_amt     35437.367244
+dtype: float64
+Done with quarter 29: 201209
+coll_perc        0.048538
+coll_amt     34504.005299
+dtype: float64
+Done with quarter 30: 201212
+coll_perc        0.047016
+coll_amt     34230.671411
+dtype: float64
+Done with quarter 31: 201303
+coll_perc        0.045863
+coll_amt     31078.644903
+dtype: float64
+Done with quarter 32: 201306
+coll_perc        0.042665
+coll_amt     31740.709338
+dtype: float64
+Done with quarter 33: 201309
+coll_perc        0.042960
+coll_amt     29382.810673
+dtype: float64
+Done with quarter 34: 201312
+coll_perc        0.039887
+coll_amt     28328.952442
+dtype: float64
+Done with quarter 35: 201403
+coll_perc        0.038079
+coll_amt     27472.680371
+dtype: float64
+Done with quarter 36: 201406
+coll_perc        0.037483
+coll_amt     26799.080061
+dtype: float64
+Done with quarter 37: 201409
+coll_perc        0.040538
+coll_amt     24503.641961
+dtype: float64
+Done with quarter 38: 201412
+coll_perc        0.036257
+coll_amt     25896.622633
+dtype: float64
+Done with quarter 39: 201503
+coll_perc        0.034436
+coll_amt     25554.362234
+dtype: float64
+Done with quarter 40: 201506
+coll_perc        0.035955
+coll_amt     23177.362340
+dtype: float64
+Done with quarter 41: 201509
+coll_perc        0.036719
+coll_amt     21514.471124
+dtype: float64
+Done with quarter 42: 201512
+coll_perc        0.034251
+coll_amt     22202.319143
+dtype: float64
+Done with quarter 43: 201603
+coll_perc        0.032236
+coll_amt     21070.899125
+dtype: float64
+Done with quarter 44: 201606
+coll_perc        0.033149
+coll_amt     20346.298698
+dtype: float64
+Done with quarter 45: 201609
+coll_perc        0.033792
+coll_amt     19613.456611
+dtype: float64
+Done with quarter 46: 201612
+coll_perc        0.033681
+coll_amt     20298.318958
+dtype: float64
+Done with quarter 47: 201703
+coll_perc        0.033368
+coll_amt     19147.711327
+dtype: float64
+Done with quarter 48: 201706
+coll_perc        0.035418
+coll_amt     17839.773785
+dtype: float64
+Done with quarter 49: 201709
+coll_perc        0.035327
+coll_amt     17544.433482
+dtype: float64
+Done with quarter 50: 201712
+coll_perc        0.034651
+coll_amt     17294.079270
+dtype: float64
+Done with quarter 51: 201803
+coll_perc        0.032599
+coll_amt     17291.988948
+dtype: float64
+Done with quarter 52: 201806
+coll_perc        0.033821
+coll_amt     17679.850244
+dtype: float64
+Done with quarter 53: 201809
+coll_perc        0.035597
+coll_amt     16509.270064
+dtype: float64
+Done with quarter 54: 201812
+coll_perc        0.034550
+coll_amt     16264.025597
+dtype: float64
+Done with quarter 55: 201903
+coll_perc        0.032471
+coll_amt     15755.081860
+dtype: float64
+Done with quarter 56: 201906
+coll_perc        0.032587
+coll_amt     16509.015865
+dtype: float64
+Done with quarter 57: 201909
+coll_perc        0.034743
+coll_amt     15720.169236
+dtype: float64
+Done with quarter 58: 201912
+coll_perc        0.034382
+coll_amt     15253.027285
+dtype: float64
+Done with quarter 59: 202003
+coll_perc        0.024575
+coll_amt     12866.719407
+dtype: float64
+Done with quarter 60: 202006
+coll_perc        0.021812
+coll_amt     13214.239569
+dtype: float64
+Done with quarter 61: 202009
+coll_perc        0.021359
+coll_amt     12746.996878
+dtype: float64
+Done with quarter 62: 202012
+coll_perc        0.021280
+coll_amt     13103.291285
+dtype: float64
+Done with quarter 63: 202103
+coll_perc        0.018806
+coll_amt     13351.286804
+dtype: float64
+Done with quarter 64: 202106
+coll_perc        0.018926
+coll_amt     12986.942836
+dtype: float64
+Done with quarter 65: 202109
+WE APPENDED ALL THE ROWS TOGETHER
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:209: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+WE DID IT!!!!!!!!111!!1111!1ONEONE

@@ -1,0 +1,1366 @@
+done with month 1, 200507
+done with month 2, 200508
+done with month 3, 200509
+done with month 4, 200510
+done with month 5, 200511
+done with month 6, 200512
+done with month 7, 200601
+done with month 8, 200602
+done with month 9, 200603
+done with month 10, 200604
+done with month 11, 200605
+done with month 12, 200606
+done with month 13, 200607
+done with month 14, 200608
+done with month 15, 200609
+done with month 16, 200610
+done with month 17, 200611
+done with month 18, 200612
+done with month 19, 200701
+done with month 20, 200702
+done with month 21, 200703
+done with month 22, 200704
+done with month 23, 200705
+done with month 24, 200706
+done with month 25, 200707
+done with month 26, 200708
+done with month 27, 200709
+done with month 28, 200710
+done with month 29, 200711
+done with month 30, 200712
+done with month 31, 200801
+done with month 32, 200802
+done with month 33, 200803
+done with month 34, 200804
+done with month 35, 200805
+done with month 36, 200806
+done with month 37, 200807
+done with month 38, 200808
+done with month 39, 200809
+done with month 40, 200810
+done with month 41, 200811
+done with month 42, 200812
+done with month 43, 200901
+done with month 44, 200902
+done with month 45, 200903
+done with month 46, 200904
+done with month 47, 200905
+done with month 48, 200906
+done with month 49, 200907
+done with month 50, 200908
+done with month 51, 200909
+done with month 52, 200910
+done with month 53, 200911
+done with month 54, 200912
+done with month 55, 201001
+done with month 56, 201002
+done with month 57, 201003
+done with month 58, 201004
+done with month 59, 201005
+done with month 60, 201006
+done with month 61, 201007
+done with month 62, 201008
+done with month 63, 201009
+done with month 64, 201010
+done with month 65, 201011
+done with month 66, 201012
+done with month 67, 201101
+done with month 68, 201102
+done with month 69, 201103
+done with month 70, 201104
+done with month 71, 201105
+done with month 72, 201106
+done with month 73, 201107
+done with month 74, 201108
+done with month 75, 201109
+done with month 76, 201110
+done with month 77, 201111
+done with month 78, 201112
+done with month 79, 201201
+done with month 80, 201202
+done with month 81, 201203
+done with month 82, 201204
+done with month 83, 201205
+done with month 84, 201206
+done with month 85, 201207
+done with month 86, 201208
+done with month 87, 201209
+done with month 88, 201210
+done with month 89, 201211
+done with month 90, 201212
+done with month 91, 201301
+done with month 92, 201302
+done with month 93, 201303
+done with month 94, 201304
+done with month 95, 201305
+done with month 96, 201306
+done with month 97, 201307
+done with month 98, 201308
+done with month 99, 201309
+done with month 100, 201310
+done with month 101, 201311
+done with month 102, 201312
+done with month 103, 201401
+done with month 104, 201402
+done with month 105, 201403
+done with month 106, 201404
+done with month 107, 201405
+done with month 108, 201406
+done with month 109, 201407
+done with month 110, 201408
+done with month 111, 201409
+done with month 112, 201410
+done with month 113, 201411
+done with month 114, 201412
+done with month 115, 201501
+done with month 116, 201502
+done with month 117, 201503
+done with month 118, 201504
+done with month 119, 201505
+done with month 120, 201506
+done with month 121, 201507
+done with month 122, 201508
+done with month 123, 201509
+done with month 124, 201510
+done with month 125, 201511
+done with month 126, 201512
+done with month 127, 201601
+done with month 128, 201602
+done with month 129, 201603
+done with month 130, 201604
+done with month 131, 201605
+done with month 132, 201606
+done with month 133, 201607
+done with month 134, 201608
+done with month 135, 201609
+done with month 136, 201610
+done with month 137, 201611
+done with month 138, 201612
+done with month 139, 201701
+done with month 140, 201702
+done with month 141, 201703
+done with month 142, 201704
+done with month 143, 201705
+done with month 144, 201706
+done with month 145, 201707
+done with month 146, 201708
+done with month 147, 201709
+done with month 148, 201710
+done with month 149, 201711
+done with month 150, 201712
+done with month 151, 201801
+done with month 152, 201802
+done with month 153, 201803
+done with month 154, 201804
+done with month 155, 201805
+done with month 156, 201806
+done with month 157, 201807
+done with month 158, 201808
+done with month 159, 201809
+done with month 160, 201810
+done with month 161, 201811
+done with month 162, 201812
+done with month 163, 201901
+done with month 164, 201902
+done with month 165, 201903
+done with month 166, 201904
+done with month 167, 201905
+done with month 168, 201906
+done with month 169, 201907
+done with month 170, 201908
+done with month 171, 201909
+done with month 172, 201910
+done with month 173, 201911
+done with month 174, 201912
+done with month 175, 202001
+done with month 176, 202002
+done with month 177, 202003
+done with month 178, 202004
+done with month 179, 202005
+done with month 180, 202006
+done with month 181, 202007
+done with month 182, 202008
+done with month 183, 202009
+done with month 184, 202010
+done with month 185, 202011
+done with month 186, 202012
+done with month 187, 202101
+done with month 188, 202102
+done with month 189, 202103
+done with month 190, 202104
+done with month 191, 202105
+done with month 192, 202106
+done with month 193, 202107
+done with month 194, 202108
+done with month 195, 202109
+[Vantage<700             0.296595
+700<Vantage<750         0.437182
+750<Vantage             0.401172
+Vantage<700_ever        0.296678
+700<Vantage<750_ever    0.437520
+750<Vantage_ever        0.401301
+Name: vant_cat, dtype: float64, Vantage<700             0.293272
+700<Vantage<750         0.437627
+750<Vantage             0.403276
+Vantage<700_ever        0.297143
+700<Vantage<750_ever    0.440879
+750<Vantage_ever        0.407000
+Name: vant_cat, dtype: float64, Vantage<700             0.293068
+700<Vantage<750         0.435707
+750<Vantage             0.405177
+Vantage<700_ever        0.299937
+700<Vantage<750_ever    0.441365
+750<Vantage_ever        0.411932
+Name: vant_cat, dtype: float64, Vantage<700             0.290931
+700<Vantage<750         0.435003
+750<Vantage             0.407739
+Vantage<700_ever        0.301278
+700<Vantage<750_ever    0.443434
+750<Vantage_ever        0.417765
+Name: vant_cat, dtype: float64, Vantage<700             0.288676
+700<Vantage<750         0.433075
+750<Vantage             0.407180
+Vantage<700_ever        0.301823
+700<Vantage<750_ever    0.443757
+750<Vantage_ever        0.420616
+Name: vant_cat, dtype: float64, Vantage<700             0.286932
+700<Vantage<750         0.432494
+750<Vantage             0.404846
+Vantage<700_ever        0.304783
+700<Vantage<750_ever    0.446282
+750<Vantage_ever        0.421378
+Name: vant_cat, dtype: float64, Vantage<700             0.287346
+700<Vantage<750         0.432733
+750<Vantage             0.403652
+Vantage<700_ever        0.308027
+700<Vantage<750_ever    0.448694
+750<Vantage_ever        0.423180
+Name: vant_cat, dtype: float64, Vantage<700             0.286281
+700<Vantage<750         0.432876
+750<Vantage             0.404939
+Vantage<700_ever        0.308249
+700<Vantage<750_ever    0.449883
+750<Vantage_ever        0.426756
+Name: vant_cat, dtype: float64, Vantage<700             0.284867
+700<Vantage<750         0.430035
+750<Vantage             0.405943
+Vantage<700_ever        0.308916
+700<Vantage<750_ever    0.449160
+750<Vantage_ever        0.430430
+Name: vant_cat, dtype: float64, Vantage<700             0.284745
+700<Vantage<750         0.430067
+750<Vantage             0.407359
+Vantage<700_ever        0.310886
+700<Vantage<750_ever    0.450195
+750<Vantage_ever        0.433329
+Name: vant_cat, dtype: float64, Vantage<700             0.283839
+700<Vantage<750         0.431232
+750<Vantage             0.408035
+Vantage<700_ever        0.312877
+700<Vantage<750_ever    0.452455
+750<Vantage_ever        0.435657
+Name: vant_cat, dtype: float64, Vantage<700             0.284332
+700<Vantage<750         0.430010
+750<Vantage             0.409448
+Vantage<700_ever        0.314666
+700<Vantage<750_ever    0.452615
+750<Vantage_ever        0.438582
+Name: vant_cat, dtype: float64, Vantage<700             0.285509
+700<Vantage<750         0.431222
+750<Vantage             0.409359
+Vantage<700_ever        0.317683
+700<Vantage<750_ever    0.454501
+750<Vantage_ever        0.440246
+Name: vant_cat, dtype: float64, Vantage<700             0.285788
+700<Vantage<750         0.430163
+750<Vantage             0.409533
+Vantage<700_ever        0.319513
+700<Vantage<750_ever    0.455133
+750<Vantage_ever        0.442238
+Name: vant_cat, dtype: float64, Vantage<700             0.284666
+700<Vantage<750         0.430580
+750<Vantage             0.409143
+Vantage<700_ever        0.320432
+700<Vantage<750_ever    0.457247
+750<Vantage_ever        0.443892
+Name: vant_cat, dtype: float64, Vantage<700             0.283940
+700<Vantage<750         0.432480
+750<Vantage             0.408495
+Vantage<700_ever        0.321685
+700<Vantage<750_ever    0.460719
+750<Vantage_ever        0.445498
+Name: vant_cat, dtype: float64, Vantage<700             0.283179
+700<Vantage<750         0.434514
+750<Vantage             0.408842
+Vantage<700_ever        0.323008
+700<Vantage<750_ever    0.464798
+750<Vantage_ever        0.448208
+Name: vant_cat, dtype: float64, Vantage<700             0.283368
+700<Vantage<750         0.432954
+750<Vantage             0.407976
+Vantage<700_ever        0.324988
+700<Vantage<750_ever    0.464874
+750<Vantage_ever        0.449512
+Name: vant_cat, dtype: float64, Vantage<700             0.286004
+700<Vantage<750         0.435464
+750<Vantage             0.409972
+Vantage<700_ever        0.328471
+700<Vantage<750_ever    0.467590
+750<Vantage_ever        0.452514
+Name: vant_cat, dtype: float64, Vantage<700             0.284484
+700<Vantage<750         0.431781
+750<Vantage             0.410438
+Vantage<700_ever        0.328084
+700<Vantage<750_ever    0.465358
+750<Vantage_ever        0.454521
+Name: vant_cat, dtype: float64, Vantage<700             0.282430
+700<Vantage<750         0.430066
+750<Vantage             0.412653
+Vantage<700_ever        0.327898
+700<Vantage<750_ever    0.464788
+750<Vantage_ever        0.458228
+Name: vant_cat, dtype: float64, Vantage<700             0.280994
+700<Vantage<750         0.428120
+750<Vantage             0.413569
+Vantage<700_ever        0.328235
+700<Vantage<750_ever    0.463969
+750<Vantage_ever        0.460909
+Name: vant_cat, dtype: float64, Vantage<700             0.279351
+700<Vantage<750         0.424131
+750<Vantage             0.412145
+Vantage<700_ever        0.328031
+700<Vantage<750_ever    0.460223
+750<Vantage_ever        0.461004
+Name: vant_cat, dtype: float64, Vantage<700             0.280893
+700<Vantage<750         0.422641
+750<Vantage             0.411568
+Vantage<700_ever        0.330565
+700<Vantage<750_ever    0.459467
+750<Vantage_ever        0.461589
+Name: vant_cat, dtype: float64, Vantage<700             0.281918
+700<Vantage<750         0.422862
+750<Vantage             0.412191
+Vantage<700_ever        0.332937
+700<Vantage<750_ever    0.460020
+750<Vantage_ever        0.463427
+Name: vant_cat, dtype: float64, Vantage<700             0.281939
+700<Vantage<750         0.421657
+750<Vantage             0.411522
+Vantage<700_ever        0.334266
+700<Vantage<750_ever    0.460162
+750<Vantage_ever        0.464743
+Name: vant_cat, dtype: float64, Vantage<700             0.283360
+700<Vantage<750         0.422894
+750<Vantage             0.412752
+Vantage<700_ever        0.336133
+700<Vantage<750_ever    0.461298
+750<Vantage_ever        0.467223
+Name: vant_cat, dtype: float64, Vantage<700             0.284683
+700<Vantage<750         0.420815
+750<Vantage             0.410209
+Vantage<700_ever        0.338695
+700<Vantage<750_ever    0.460735
+750<Vantage_ever        0.466419
+Name: vant_cat, dtype: float64, Vantage<700             0.284170
+700<Vantage<750         0.417633
+750<Vantage             0.409633
+Vantage<700_ever        0.339326
+700<Vantage<750_ever    0.458285
+750<Vantage_ever        0.467306
+Name: vant_cat, dtype: float64, Vantage<700             0.284075
+700<Vantage<750         0.415171
+750<Vantage             0.407413
+Vantage<700_ever        0.340966
+700<Vantage<750_ever    0.457468
+750<Vantage_ever        0.467029
+Name: vant_cat, dtype: float64, Vantage<700             0.285224
+700<Vantage<750         0.415804
+750<Vantage             0.406765
+Vantage<700_ever        0.342952
+700<Vantage<750_ever    0.458136
+750<Vantage_ever        0.467663
+Name: vant_cat, dtype: float64, Vantage<700             0.284085
+700<Vantage<750         0.412646
+750<Vantage             0.406905
+Vantage<700_ever        0.343324
+700<Vantage<750_ever    0.455662
+750<Vantage_ever        0.469709
+Name: vant_cat, dtype: float64, Vantage<700             0.282703
+700<Vantage<750         0.408802
+750<Vantage             0.407519
+Vantage<700_ever        0.343215
+700<Vantage<750_ever    0.452792
+750<Vantage_ever        0.471812
+Name: vant_cat, dtype: float64, Vantage<700             0.284025
+700<Vantage<750         0.414059
+750<Vantage             0.410529
+Vantage<700_ever        0.346281
+700<Vantage<750_ever    0.459598
+750<Vantage_ever        0.476307
+Name: vant_cat, dtype: float64, Vantage<700             0.283477
+700<Vantage<750         0.408540
+750<Vantage             0.409711
+Vantage<700_ever        0.346565
+700<Vantage<750_ever    0.454330
+750<Vantage_ever        0.476375
+Name: vant_cat, dtype: float64, Vantage<700             0.284743
+700<Vantage<750         0.410768
+750<Vantage             0.410535
+Vantage<700_ever        0.348716
+700<Vantage<750_ever    0.456209
+750<Vantage_ever        0.477429
+Name: vant_cat, dtype: float64, Vantage<700             0.285573
+700<Vantage<750         0.414278
+750<Vantage             0.411108
+Vantage<700_ever        0.350930
+700<Vantage<750_ever    0.460806
+750<Vantage_ever        0.479473
+Name: vant_cat, dtype: float64, Vantage<700             0.286810
+700<Vantage<750         0.412405
+750<Vantage             0.409969
+Vantage<700_ever        0.353409
+700<Vantage<750_ever    0.459981
+750<Vantage_ever        0.480508
+Name: vant_cat, dtype: float64, Vantage<700             0.285514
+700<Vantage<750         0.411777
+750<Vantage             0.409676
+Vantage<700_ever        0.353769
+700<Vantage<750_ever    0.460822
+750<Vantage_ever        0.481979
+Name: vant_cat, dtype: float64, Vantage<700             0.284810
+700<Vantage<750         0.405642
+750<Vantage             0.411273
+Vantage<700_ever        0.354638
+700<Vantage<750_ever    0.455309
+750<Vantage_ever        0.485830
+Name: vant_cat, dtype: float64, Vantage<700             0.284781
+700<Vantage<750         0.404578
+750<Vantage             0.411299
+Vantage<700_ever        0.356132
+700<Vantage<750_ever    0.455045
+750<Vantage_ever        0.487213
+Name: vant_cat, dtype: float64, Vantage<700             0.285028
+700<Vantage<750         0.404375
+750<Vantage             0.409930
+Vantage<700_ever        0.357942
+700<Vantage<750_ever    0.455886
+750<Vantage_ever        0.488156
+Name: vant_cat, dtype: float64, Vantage<700             0.285362
+700<Vantage<750         0.403065
+750<Vantage             0.407068
+Vantage<700_ever        0.359937
+700<Vantage<750_ever    0.456268
+750<Vantage_ever        0.488129
+Name: vant_cat, dtype: float64, Vantage<700             0.285189
+700<Vantage<750         0.400786
+750<Vantage             0.407433
+Vantage<700_ever        0.361462
+700<Vantage<750_ever    0.454872
+750<Vantage_ever        0.490110
+Name: vant_cat, dtype: float64, Vantage<700             0.284628
+700<Vantage<750         0.395493
+750<Vantage             0.408918
+Vantage<700_ever        0.362473
+700<Vantage<750_ever    0.450118
+750<Vantage_ever        0.493084
+Name: vant_cat, dtype: float64, Vantage<700             0.284457
+700<Vantage<750         0.395127
+750<Vantage             0.409490
+Vantage<700_ever        0.363519
+700<Vantage<750_ever    0.450591
+750<Vantage_ever        0.494856
+Name: vant_cat, dtype: float64, Vantage<700             0.284140
+700<Vantage<750         0.394318
+750<Vantage             0.409248
+Vantage<700_ever        0.364901
+700<Vantage<750_ever    0.450922
+750<Vantage_ever        0.496272
+Name: vant_cat, dtype: float64, Vantage<700             0.284154
+700<Vantage<750         0.395703
+750<Vantage             0.409072
+Vantage<700_ever        0.366240
+700<Vantage<750_ever    0.453172
+750<Vantage_ever        0.497372
+Name: vant_cat, dtype: float64, Vantage<700             0.285298
+700<Vantage<750         0.395984
+750<Vantage             0.409126
+Vantage<700_ever        0.368680
+700<Vantage<750_ever    0.454123
+750<Vantage_ever        0.499017
+Name: vant_cat, dtype: float64, Vantage<700             0.285493
+700<Vantage<750         0.396297
+750<Vantage             0.408278
+Vantage<700_ever        0.370340
+700<Vantage<750_ever    0.455387
+750<Vantage_ever        0.500175
+Name: vant_cat, dtype: float64, Vantage<700             0.284678
+700<Vantage<750         0.395915
+750<Vantage             0.411365
+Vantage<700_ever        0.370763
+700<Vantage<750_ever    0.455650
+750<Vantage_ever        0.505315
+Name: vant_cat, dtype: float64, Vantage<700             0.283874
+700<Vantage<750         0.393880
+750<Vantage             0.411920
+Vantage<700_ever        0.371654
+700<Vantage<750_ever    0.455158
+750<Vantage_ever        0.507242
+Name: vant_cat, dtype: float64, Vantage<700             0.281929
+700<Vantage<750         0.392484
+750<Vantage             0.411101
+Vantage<700_ever        0.370769
+700<Vantage<750_ever    0.455055
+750<Vantage_ever        0.508287
+Name: vant_cat, dtype: float64, Vantage<700             0.282086
+700<Vantage<750         0.394792
+750<Vantage             0.409555
+Vantage<700_ever        0.372847
+700<Vantage<750_ever    0.458838
+750<Vantage_ever        0.508767
+Name: vant_cat, dtype: float64, Vantage<700             0.282675
+700<Vantage<750         0.395051
+750<Vantage             0.407010
+Vantage<700_ever        0.375332
+700<Vantage<750_ever    0.461039
+750<Vantage_ever        0.509176
+Name: vant_cat, dtype: float64, Vantage<700             0.281387
+700<Vantage<750         0.392975
+750<Vantage             0.408259
+Vantage<700_ever        0.375822
+700<Vantage<750_ever    0.460551
+750<Vantage_ever        0.511710
+Name: vant_cat, dtype: float64, Vantage<700             0.280694
+700<Vantage<750         0.394704
+750<Vantage             0.409551
+Vantage<700_ever        0.376395
+700<Vantage<750_ever    0.462990
+750<Vantage_ever        0.513666
+Name: vant_cat, dtype: float64, Vantage<700             0.280245
+700<Vantage<750         0.394717
+750<Vantage             0.410697
+Vantage<700_ever        0.377102
+700<Vantage<750_ever    0.463899
+750<Vantage_ever        0.516117
+Name: vant_cat, dtype: float64, Vantage<700             0.280010
+700<Vantage<750         0.394606
+750<Vantage             0.411696
+Vantage<700_ever        0.377529
+700<Vantage<750_ever    0.464251
+750<Vantage_ever        0.517698
+Name: vant_cat, dtype: float64, Vantage<700             0.280794
+700<Vantage<750         0.394735
+750<Vantage             0.411740
+Vantage<700_ever        0.379642
+700<Vantage<750_ever    0.465192
+750<Vantage_ever        0.518823
+Name: vant_cat, dtype: float64, Vantage<700             0.282014
+700<Vantage<750         0.396469
+750<Vantage             0.412145
+Vantage<700_ever        0.382091
+700<Vantage<750_ever    0.467957
+750<Vantage_ever        0.520167
+Name: vant_cat, dtype: float64, Vantage<700             0.282588
+700<Vantage<750         0.404587
+750<Vantage             0.414950
+Vantage<700_ever        0.384534
+700<Vantage<750_ever    0.477805
+750<Vantage_ever        0.525678
+Name: vant_cat, dtype: float64, Vantage<700             0.279979
+700<Vantage<750         0.397653
+750<Vantage             0.410949
+Vantage<700_ever        0.384045
+700<Vantage<750_ever    0.472762
+750<Vantage_ever        0.524098
+Name: vant_cat, dtype: float64, Vantage<700             0.277302
+700<Vantage<750         0.393919
+750<Vantage             0.409394
+Vantage<700_ever        0.382222
+700<Vantage<750_ever    0.470122
+750<Vantage_ever        0.524074
+Name: vant_cat, dtype: float64, Vantage<700             0.275461
+700<Vantage<750         0.392047
+750<Vantage             0.409191
+Vantage<700_ever        0.381989
+700<Vantage<750_ever    0.469448
+750<Vantage_ever        0.525738
+Name: vant_cat, dtype: float64, Vantage<700             0.275111
+700<Vantage<750         0.394840
+750<Vantage             0.408624
+Vantage<700_ever        0.382008
+700<Vantage<750_ever    0.472851
+750<Vantage_ever        0.526085
+Name: vant_cat, dtype: float64, Vantage<700             0.274390
+700<Vantage<750         0.395276
+750<Vantage             0.407205
+Vantage<700_ever        0.383001
+700<Vantage<750_ever    0.474220
+750<Vantage_ever        0.526046
+Name: vant_cat, dtype: float64, Vantage<700             0.273696
+700<Vantage<750         0.392312
+750<Vantage             0.408107
+Vantage<700_ever        0.383205
+700<Vantage<750_ever    0.472811
+750<Vantage_ever        0.527514
+Name: vant_cat, dtype: float64, Vantage<700             0.270983
+700<Vantage<750         0.389109
+750<Vantage             0.409060
+Vantage<700_ever        0.381991
+700<Vantage<750_ever    0.470643
+750<Vantage_ever        0.529420
+Name: vant_cat, dtype: float64, Vantage<700             0.269295
+700<Vantage<750         0.388439
+750<Vantage             0.408591
+Vantage<700_ever        0.381529
+700<Vantage<750_ever    0.471183
+750<Vantage_ever        0.530838
+Name: vant_cat, dtype: float64, Vantage<700             0.268338
+700<Vantage<750         0.388956
+750<Vantage             0.409460
+Vantage<700_ever        0.381387
+700<Vantage<750_ever    0.472521
+750<Vantage_ever        0.532256
+Name: vant_cat, dtype: float64, Vantage<700             0.268158
+700<Vantage<750         0.389417
+750<Vantage             0.409490
+Vantage<700_ever        0.381523
+700<Vantage<750_ever    0.473416
+750<Vantage_ever        0.533310
+Name: vant_cat, dtype: float64, Vantage<700             0.267524
+700<Vantage<750         0.388106
+750<Vantage             0.408166
+Vantage<700_ever        0.382345
+700<Vantage<750_ever    0.473383
+750<Vantage_ever        0.533747
+Name: vant_cat, dtype: float64, Vantage<700             0.268221
+700<Vantage<750         0.387241
+750<Vantage             0.408622
+Vantage<700_ever        0.383676
+700<Vantage<750_ever    0.473776
+750<Vantage_ever        0.534903
+Name: vant_cat, dtype: float64, Vantage<700             0.267891
+700<Vantage<750         0.386862
+750<Vantage             0.407820
+Vantage<700_ever        0.384871
+700<Vantage<750_ever    0.474107
+750<Vantage_ever        0.535871
+Name: vant_cat, dtype: float64, Vantage<700             0.267140
+700<Vantage<750         0.385921
+750<Vantage             0.406265
+Vantage<700_ever        0.385347
+700<Vantage<750_ever    0.474288
+750<Vantage_ever        0.536198
+Name: vant_cat, dtype: float64, Vantage<700             0.267955
+700<Vantage<750         0.386114
+750<Vantage             0.408736
+Vantage<700_ever        0.386285
+700<Vantage<750_ever    0.474350
+750<Vantage_ever        0.538167
+Name: vant_cat, dtype: float64, Vantage<700             0.268626
+700<Vantage<750         0.387450
+750<Vantage             0.407104
+Vantage<700_ever        0.388212
+700<Vantage<750_ever    0.476705
+750<Vantage_ever        0.538216
+Name: vant_cat, dtype: float64, Vantage<700             0.268604
+700<Vantage<750         0.386971
+750<Vantage             0.405683
+Vantage<700_ever        0.389889
+700<Vantage<750_ever    0.477599
+750<Vantage_ever        0.538519
+Name: vant_cat, dtype: float64, Vantage<700             0.268758
+700<Vantage<750         0.377875
+750<Vantage             0.409552
+Vantage<700_ever        0.391576
+700<Vantage<750_ever    0.469691
+750<Vantage_ever        0.544093
+Name: vant_cat, dtype: float64, Vantage<700             0.267364
+700<Vantage<750         0.365607
+750<Vantage             0.414756
+Vantage<700_ever        0.391415
+700<Vantage<750_ever    0.457329
+750<Vantage_ever        0.551555
+Name: vant_cat, dtype: float64, Vantage<700             0.266888
+700<Vantage<750         0.365305
+750<Vantage             0.414760
+Vantage<700_ever        0.392614
+700<Vantage<750_ever    0.457578
+750<Vantage_ever        0.552811
+Name: vant_cat, dtype: float64, Vantage<700             0.266493
+700<Vantage<750         0.364673
+750<Vantage             0.414782
+Vantage<700_ever        0.393045
+700<Vantage<750_ever    0.458166
+750<Vantage_ever        0.554137
+Name: vant_cat, dtype: float64, Vantage<700             0.265912
+700<Vantage<750         0.365789
+750<Vantage             0.414170
+Vantage<700_ever        0.392501
+700<Vantage<750_ever    0.460213
+750<Vantage_ever        0.555055
+Name: vant_cat, dtype: float64, Vantage<700             0.264193
+700<Vantage<750         0.365396
+750<Vantage             0.414096
+Vantage<700_ever        0.392110
+700<Vantage<750_ever    0.461376
+750<Vantage_ever        0.556134
+Name: vant_cat, dtype: float64, Vantage<700             0.263477
+700<Vantage<750         0.361776
+750<Vantage             0.413591
+Vantage<700_ever        0.393376
+700<Vantage<750_ever    0.460132
+750<Vantage_ever        0.556731
+Name: vant_cat, dtype: float64, Vantage<700             0.262811
+700<Vantage<750         0.361384
+750<Vantage             0.413136
+Vantage<700_ever        0.393195
+700<Vantage<750_ever    0.460690
+750<Vantage_ever        0.558076
+Name: vant_cat, dtype: float64, Vantage<700             0.262745
+700<Vantage<750         0.359480
+750<Vantage             0.412866
+Vantage<700_ever        0.392260
+700<Vantage<750_ever    0.459715
+750<Vantage_ever        0.559285
+Name: vant_cat, dtype: float64, Vantage<700             0.261794
+700<Vantage<750         0.359401
+750<Vantage             0.412332
+Vantage<700_ever        0.392679
+700<Vantage<750_ever    0.460767
+750<Vantage_ever        0.560419
+Name: vant_cat, dtype: float64, Vantage<700             0.261501
+700<Vantage<750         0.361443
+750<Vantage             0.411088
+Vantage<700_ever        0.393184
+700<Vantage<750_ever    0.463299
+750<Vantage_ever        0.561045
+Name: vant_cat, dtype: float64, Vantage<700             0.261652
+700<Vantage<750         0.360971
+750<Vantage             0.409978
+Vantage<700_ever        0.394017
+700<Vantage<750_ever    0.463921
+750<Vantage_ever        0.561605
+Name: vant_cat, dtype: float64, Vantage<700             0.260342
+700<Vantage<750         0.358452
+750<Vantage             0.409948
+Vantage<700_ever        0.394059
+700<Vantage<750_ever    0.463235
+750<Vantage_ever        0.563017
+Name: vant_cat, dtype: float64, Vantage<700             0.258174
+700<Vantage<750         0.355789
+750<Vantage             0.409966
+Vantage<700_ever        0.393340
+700<Vantage<750_ever    0.462115
+750<Vantage_ever        0.563997
+Name: vant_cat, dtype: float64, Vantage<700             0.256993
+700<Vantage<750         0.354332
+750<Vantage             0.409902
+Vantage<700_ever        0.392501
+700<Vantage<750_ever    0.461208
+750<Vantage_ever        0.565188
+Name: vant_cat, dtype: float64, Vantage<700             0.256273
+700<Vantage<750         0.356680
+750<Vantage             0.409528
+Vantage<700_ever        0.392371
+700<Vantage<750_ever    0.463102
+750<Vantage_ever        0.566391
+Name: vant_cat, dtype: float64, Vantage<700             0.256172
+700<Vantage<750         0.356910
+750<Vantage             0.409774
+Vantage<700_ever        0.393167
+700<Vantage<750_ever    0.464122
+750<Vantage_ever        0.568119
+Name: vant_cat, dtype: float64, Vantage<700             0.256079
+700<Vantage<750         0.359017
+750<Vantage             0.410254
+Vantage<700_ever        0.393931
+700<Vantage<750_ever    0.467476
+750<Vantage_ever        0.569749
+Name: vant_cat, dtype: float64, Vantage<700             0.245830
+700<Vantage<750         0.351561
+750<Vantage             0.409240
+Vantage<700_ever        0.379120
+700<Vantage<750_ever    0.459287
+750<Vantage_ever        0.570700
+Name: vant_cat, dtype: float64, Vantage<700             0.243666
+700<Vantage<750         0.351420
+750<Vantage             0.409453
+Vantage<700_ever        0.376979
+700<Vantage<750_ever    0.459911
+750<Vantage_ever        0.572224
+Name: vant_cat, dtype: float64, Vantage<700             0.241221
+700<Vantage<750         0.348987
+750<Vantage             0.409414
+Vantage<700_ever        0.375472
+700<Vantage<750_ever    0.458711
+750<Vantage_ever        0.573638
+Name: vant_cat, dtype: float64, Vantage<700             0.240373
+700<Vantage<750         0.347164
+750<Vantage             0.408833
+Vantage<700_ever        0.374541
+700<Vantage<750_ever    0.457557
+750<Vantage_ever        0.574504
+Name: vant_cat, dtype: float64, Vantage<700             0.240005
+700<Vantage<750         0.348065
+750<Vantage             0.407992
+Vantage<700_ever        0.374631
+700<Vantage<750_ever    0.458928
+750<Vantage_ever        0.574780
+Name: vant_cat, dtype: float64, Vantage<700             0.240259
+700<Vantage<750         0.349235
+750<Vantage             0.407261
+Vantage<700_ever        0.375131
+700<Vantage<750_ever    0.460125
+750<Vantage_ever        0.575194
+Name: vant_cat, dtype: float64, Vantage<700             0.238649
+700<Vantage<750         0.345172
+750<Vantage             0.408174
+Vantage<700_ever        0.374249
+700<Vantage<750_ever    0.456816
+750<Vantage_ever        0.576655
+Name: vant_cat, dtype: float64, Vantage<700             0.236800
+700<Vantage<750         0.342089
+750<Vantage             0.408977
+Vantage<700_ever        0.373389
+700<Vantage<750_ever    0.454681
+750<Vantage_ever        0.577878
+Name: vant_cat, dtype: float64, Vantage<700             0.234696
+700<Vantage<750         0.341030
+750<Vantage             0.408990
+Vantage<700_ever        0.372065
+700<Vantage<750_ever    0.455488
+750<Vantage_ever        0.579286
+Name: vant_cat, dtype: float64, Vantage<700             0.233829
+700<Vantage<750         0.341184
+750<Vantage             0.410399
+Vantage<700_ever        0.371540
+700<Vantage<750_ever    0.455837
+750<Vantage_ever        0.580361
+Name: vant_cat, dtype: float64, Vantage<700             0.233475
+700<Vantage<750         0.339818
+750<Vantage             0.410559
+Vantage<700_ever        0.371515
+700<Vantage<750_ever    0.455062
+750<Vantage_ever        0.581813
+Name: vant_cat, dtype: float64, Vantage<700             0.231968
+700<Vantage<750         0.339150
+750<Vantage             0.411012
+Vantage<700_ever        0.371550
+700<Vantage<750_ever    0.455483
+750<Vantage_ever        0.583166
+Name: vant_cat, dtype: float64, Vantage<700             0.231255
+700<Vantage<750         0.339169
+750<Vantage             0.410241
+Vantage<700_ever        0.371507
+700<Vantage<750_ever    0.455736
+750<Vantage_ever        0.583751
+Name: vant_cat, dtype: float64, Vantage<700             0.229896
+700<Vantage<750         0.337327
+750<Vantage             0.410331
+Vantage<700_ever        0.370308
+700<Vantage<750_ever    0.454129
+750<Vantage_ever        0.585328
+Name: vant_cat, dtype: float64, Vantage<700             0.228879
+700<Vantage<750         0.334992
+750<Vantage             0.411541
+Vantage<700_ever        0.367599
+700<Vantage<750_ever    0.451825
+750<Vantage_ever        0.587548
+Name: vant_cat, dtype: float64, Vantage<700             0.227591
+700<Vantage<750         0.333996
+750<Vantage             0.411598
+Vantage<700_ever        0.366550
+700<Vantage<750_ever    0.451228
+750<Vantage_ever        0.588591
+Name: vant_cat, dtype: float64, Vantage<700             0.229109
+700<Vantage<750         0.338974
+750<Vantage             0.410574
+Vantage<700_ever        0.367607
+700<Vantage<750_ever    0.456100
+750<Vantage_ever        0.589568
+Name: vant_cat, dtype: float64, Vantage<700             0.228702
+700<Vantage<750         0.337579
+750<Vantage             0.409878
+Vantage<700_ever        0.368008
+700<Vantage<750_ever    0.455448
+750<Vantage_ever        0.590036
+Name: vant_cat, dtype: float64, Vantage<700             0.226944
+700<Vantage<750         0.333647
+750<Vantage             0.410923
+Vantage<700_ever        0.367471
+700<Vantage<750_ever    0.451671
+750<Vantage_ever        0.591068
+Name: vant_cat, dtype: float64, Vantage<700             0.224504
+700<Vantage<750         0.330563
+750<Vantage             0.410809
+Vantage<700_ever        0.365554
+700<Vantage<750_ever    0.449669
+750<Vantage_ever        0.591779
+Name: vant_cat, dtype: float64, Vantage<700             0.222238
+700<Vantage<750         0.328786
+750<Vantage             0.411747
+Vantage<700_ever        0.363800
+700<Vantage<750_ever    0.448972
+750<Vantage_ever        0.593180
+Name: vant_cat, dtype: float64, Vantage<700             0.219607
+700<Vantage<750         0.327112
+750<Vantage             0.411959
+Vantage<700_ever        0.362382
+700<Vantage<750_ever    0.449036
+750<Vantage_ever        0.594097
+Name: vant_cat, dtype: float64, Vantage<700             0.219109
+700<Vantage<750         0.326910
+750<Vantage             0.412113
+Vantage<700_ever        0.362214
+700<Vantage<750_ever    0.449241
+750<Vantage_ever        0.595040
+Name: vant_cat, dtype: float64, Vantage<700             0.219732
+700<Vantage<750         0.327659
+750<Vantage             0.412363
+Vantage<700_ever        0.362288
+700<Vantage<750_ever    0.449908
+750<Vantage_ever        0.595934
+Name: vant_cat, dtype: float64, Vantage<700             0.219630
+700<Vantage<750         0.329256
+750<Vantage             0.412249
+Vantage<700_ever        0.362962
+700<Vantage<750_ever    0.452136
+750<Vantage_ever        0.596898
+Name: vant_cat, dtype: float64, Vantage<700             0.219210
+700<Vantage<750         0.330596
+750<Vantage             0.412982
+Vantage<700_ever        0.361959
+700<Vantage<750_ever    0.454141
+750<Vantage_ever        0.598722
+Name: vant_cat, dtype: float64, Vantage<700             0.218972
+700<Vantage<750         0.331329
+750<Vantage             0.412455
+Vantage<700_ever        0.360705
+700<Vantage<750_ever    0.454009
+750<Vantage_ever        0.599613
+Name: vant_cat, dtype: float64, Vantage<700             0.218788
+700<Vantage<750         0.332360
+750<Vantage             0.412590
+Vantage<700_ever        0.360174
+700<Vantage<750_ever    0.455002
+750<Vantage_ever        0.600623
+Name: vant_cat, dtype: float64, Vantage<700             0.219516
+700<Vantage<750         0.333231
+750<Vantage             0.411545
+Vantage<700_ever        0.361642
+700<Vantage<750_ever    0.456738
+750<Vantage_ever        0.601399
+Name: vant_cat, dtype: float64, Vantage<700             0.219596
+700<Vantage<750         0.332960
+750<Vantage             0.410655
+Vantage<700_ever        0.362018
+700<Vantage<750_ever    0.456862
+750<Vantage_ever        0.601552
+Name: vant_cat, dtype: float64, Vantage<700             0.218040
+700<Vantage<750         0.329553
+750<Vantage             0.410686
+Vantage<700_ever        0.361430
+700<Vantage<750_ever    0.453904
+750<Vantage_ever        0.602360
+Name: vant_cat, dtype: float64, Vantage<700             0.214772
+700<Vantage<750         0.326336
+750<Vantage             0.411070
+Vantage<700_ever        0.358662
+700<Vantage<750_ever    0.451998
+750<Vantage_ever        0.602797
+Name: vant_cat, dtype: float64, Vantage<700             0.213779
+700<Vantage<750         0.327410
+750<Vantage             0.411385
+Vantage<700_ever        0.357917
+700<Vantage<750_ever    0.451910
+750<Vantage_ever        0.603839
+Name: vant_cat, dtype: float64, Vantage<700             0.212157
+700<Vantage<750         0.326194
+750<Vantage             0.411098
+Vantage<700_ever        0.356936
+700<Vantage<750_ever    0.451489
+750<Vantage_ever        0.604388
+Name: vant_cat, dtype: float64, Vantage<700             0.212210
+700<Vantage<750         0.327755
+750<Vantage             0.411558
+Vantage<700_ever        0.356962
+700<Vantage<750_ever    0.453626
+750<Vantage_ever        0.605648
+Name: vant_cat, dtype: float64, Vantage<700             0.211898
+700<Vantage<750         0.330048
+750<Vantage             0.412032
+Vantage<700_ever        0.357151
+700<Vantage<750_ever    0.455678
+750<Vantage_ever        0.606742
+Name: vant_cat, dtype: float64, Vantage<700             0.211613
+700<Vantage<750         0.329853
+750<Vantage             0.411622
+Vantage<700_ever        0.356762
+700<Vantage<750_ever    0.456547
+750<Vantage_ever        0.607666
+Name: vant_cat, dtype: float64, Vantage<700             0.210569
+700<Vantage<750         0.328399
+750<Vantage             0.411325
+Vantage<700_ever        0.355723
+700<Vantage<750_ever    0.455212
+750<Vantage_ever        0.609065
+Name: vant_cat, dtype: float64, Vantage<700             0.208861
+700<Vantage<750         0.326210
+750<Vantage             0.410952
+Vantage<700_ever        0.353888
+700<Vantage<750_ever    0.454236
+750<Vantage_ever        0.610028
+Name: vant_cat, dtype: float64, Vantage<700             0.208657
+700<Vantage<750         0.327302
+750<Vantage             0.411245
+Vantage<700_ever        0.353679
+700<Vantage<750_ever    0.455021
+750<Vantage_ever        0.610717
+Name: vant_cat, dtype: float64, Vantage<700             0.208986
+700<Vantage<750         0.329867
+750<Vantage             0.409516
+Vantage<700_ever        0.354027
+700<Vantage<750_ever    0.458529
+750<Vantage_ever        0.610728
+Name: vant_cat, dtype: float64, Vantage<700             0.208800
+700<Vantage<750         0.328702
+750<Vantage             0.408695
+Vantage<700_ever        0.354578
+700<Vantage<750_ever    0.457719
+750<Vantage_ever        0.611310
+Name: vant_cat, dtype: float64, Vantage<700             0.208529
+700<Vantage<750         0.328955
+750<Vantage             0.409268
+Vantage<700_ever        0.354481
+700<Vantage<750_ever    0.457501
+750<Vantage_ever        0.612216
+Name: vant_cat, dtype: float64, Vantage<700             0.207265
+700<Vantage<750         0.327300
+750<Vantage             0.409470
+Vantage<700_ever        0.353396
+700<Vantage<750_ever    0.456100
+750<Vantage_ever        0.612620
+Name: vant_cat, dtype: float64, Vantage<700             0.205759
+700<Vantage<750         0.327326
+750<Vantage             0.409159
+Vantage<700_ever        0.352372
+700<Vantage<750_ever    0.456537
+750<Vantage_ever        0.613298
+Name: vant_cat, dtype: float64, Vantage<700             0.204980
+700<Vantage<750         0.325753
+750<Vantage             0.409287
+Vantage<700_ever        0.352011
+700<Vantage<750_ever    0.456159
+750<Vantage_ever        0.614172
+Name: vant_cat, dtype: float64, Vantage<700             0.205028
+700<Vantage<750         0.326529
+750<Vantage             0.409469
+Vantage<700_ever        0.351853
+700<Vantage<750_ever    0.457009
+750<Vantage_ever        0.615486
+Name: vant_cat, dtype: float64, Vantage<700             0.204539
+700<Vantage<750         0.326658
+750<Vantage             0.409307
+Vantage<700_ever        0.351351
+700<Vantage<750_ever    0.457941
+750<Vantage_ever        0.616268
+Name: vant_cat, dtype: float64, Vantage<700             0.204247
+700<Vantage<750         0.330910
+750<Vantage             0.409916
+Vantage<700_ever        0.351446
+700<Vantage<750_ever    0.462726
+750<Vantage_ever        0.617716
+Name: vant_cat, dtype: float64, Vantage<700             0.206137
+700<Vantage<750         0.354607
+750<Vantage             0.410533
+Vantage<700_ever        0.351497
+700<Vantage<750_ever    0.487528
+750<Vantage_ever        0.619075
+Name: vant_cat, dtype: float64, Vantage<700             0.205239
+700<Vantage<750         0.367316
+750<Vantage             0.411283
+Vantage<700_ever        0.349591
+700<Vantage<750_ever    0.501077
+750<Vantage_ever        0.620553
+Name: vant_cat, dtype: float64, Vantage<700             0.204611
+700<Vantage<750         0.369042
+750<Vantage             0.410877
+Vantage<700_ever        0.348536
+700<Vantage<750_ever    0.503805
+750<Vantage_ever        0.621557
+Name: vant_cat, dtype: float64, Vantage<700             0.204894
+700<Vantage<750         0.370412
+750<Vantage             0.408976
+Vantage<700_ever        0.349228
+700<Vantage<750_ever    0.505719
+750<Vantage_ever        0.621823
+Name: vant_cat, dtype: float64, Vantage<700             0.205692
+700<Vantage<750         0.369895
+750<Vantage             0.409163
+Vantage<700_ever        0.349705
+700<Vantage<750_ever    0.506050
+750<Vantage_ever        0.622624
+Name: vant_cat, dtype: float64, Vantage<700             0.204546
+700<Vantage<750         0.366717
+750<Vantage             0.409165
+Vantage<700_ever        0.348637
+700<Vantage<750_ever    0.503715
+750<Vantage_ever        0.623160
+Name: vant_cat, dtype: float64, Vantage<700             0.202083
+700<Vantage<750         0.363579
+750<Vantage             0.410263
+Vantage<700_ever        0.347090
+700<Vantage<750_ever    0.501058
+750<Vantage_ever        0.624116
+Name: vant_cat, dtype: float64, Vantage<700             0.200200
+700<Vantage<750         0.361650
+750<Vantage             0.411225
+Vantage<700_ever        0.345482
+700<Vantage<750_ever    0.499967
+750<Vantage_ever        0.625336
+Name: vant_cat, dtype: float64, Vantage<700             0.199201
+700<Vantage<750         0.358872
+750<Vantage             0.411320
+Vantage<700_ever        0.344853
+700<Vantage<750_ever    0.497425
+750<Vantage_ever        0.626229
+Name: vant_cat, dtype: float64, Vantage<700             0.199939
+700<Vantage<750         0.359320
+750<Vantage             0.411100
+Vantage<700_ever        0.346129
+700<Vantage<750_ever    0.497612
+750<Vantage_ever        0.627009
+Name: vant_cat, dtype: float64, Vantage<700             0.200291
+700<Vantage<750         0.360682
+750<Vantage             0.411590
+Vantage<700_ever        0.346182
+700<Vantage<750_ever    0.498684
+750<Vantage_ever        0.627956
+Name: vant_cat, dtype: float64, Vantage<700             0.200824
+700<Vantage<750         0.363025
+750<Vantage             0.411637
+Vantage<700_ever        0.346429
+700<Vantage<750_ever    0.501364
+750<Vantage_ever        0.629021
+Name: vant_cat, dtype: float64, Vantage<700             0.200342
+700<Vantage<750         0.363847
+750<Vantage             0.411959
+Vantage<700_ever        0.345530
+700<Vantage<750_ever    0.501538
+750<Vantage_ever        0.630410
+Name: vant_cat, dtype: float64, Vantage<700             0.199530
+700<Vantage<750         0.364072
+750<Vantage             0.411910
+Vantage<700_ever        0.344601
+700<Vantage<750_ever    0.501776
+750<Vantage_ever        0.631649
+Name: vant_cat, dtype: float64, Vantage<700             0.199081
+700<Vantage<750         0.363782
+750<Vantage             0.411173
+Vantage<700_ever        0.344313
+700<Vantage<750_ever    0.502529
+750<Vantage_ever        0.632261
+Name: vant_cat, dtype: float64, Vantage<700             0.199998
+700<Vantage<750         0.365156
+750<Vantage             0.409763
+Vantage<700_ever        0.345525
+700<Vantage<750_ever    0.504503
+750<Vantage_ever        0.632789
+Name: vant_cat, dtype: float64, Vantage<700             0.200029
+700<Vantage<750         0.363310
+750<Vantage             0.408700
+Vantage<700_ever        0.346189
+700<Vantage<750_ever    0.503381
+750<Vantage_ever        0.633390
+Name: vant_cat, dtype: float64, Vantage<700             0.198729
+700<Vantage<750         0.359401
+750<Vantage             0.408955
+Vantage<700_ever        0.345340
+700<Vantage<750_ever    0.501369
+750<Vantage_ever        0.634052
+Name: vant_cat, dtype: float64, Vantage<700             0.197665
+700<Vantage<750         0.356384
+750<Vantage             0.409146
+Vantage<700_ever        0.344081
+700<Vantage<750_ever    0.498003
+750<Vantage_ever        0.634110
+Name: vant_cat, dtype: float64, Vantage<700             0.197421
+700<Vantage<750         0.356422
+750<Vantage             0.410565
+Vantage<700_ever        0.343190
+700<Vantage<750_ever    0.497485
+750<Vantage_ever        0.635103
+Name: vant_cat, dtype: float64, Vantage<700             0.196888
+700<Vantage<750         0.357116
+750<Vantage             0.410106
+Vantage<700_ever        0.342869
+700<Vantage<750_ever    0.497954
+750<Vantage_ever        0.635454
+Name: vant_cat, dtype: float64, Vantage<700             0.197780
+700<Vantage<750         0.360456
+750<Vantage             0.411565
+Vantage<700_ever        0.343172
+700<Vantage<750_ever    0.500329
+750<Vantage_ever        0.636654
+Name: vant_cat, dtype: float64, Vantage<700             0.197606
+700<Vantage<750         0.359752
+750<Vantage             0.411607
+Vantage<700_ever        0.343318
+700<Vantage<750_ever    0.499457
+750<Vantage_ever        0.637792
+Name: vant_cat, dtype: float64, Vantage<700             0.197816
+700<Vantage<750         0.360222
+750<Vantage             0.411540
+Vantage<700_ever        0.343750
+700<Vantage<750_ever    0.499728
+750<Vantage_ever        0.638713
+Name: vant_cat, dtype: float64, Vantage<700             0.197601
+700<Vantage<750         0.358296
+750<Vantage             0.411666
+Vantage<700_ever        0.343123
+700<Vantage<750_ever    0.497818
+750<Vantage_ever        0.640002
+Name: vant_cat, dtype: float64, Vantage<700             0.197236
+700<Vantage<750         0.357460
+750<Vantage             0.411516
+Vantage<700_ever        0.342065
+700<Vantage<750_ever    0.497175
+750<Vantage_ever        0.640468
+Name: vant_cat, dtype: float64, Vantage<700             0.196784
+700<Vantage<750         0.356362
+750<Vantage             0.410910
+Vantage<700_ever        0.341758
+700<Vantage<750_ever    0.496138
+750<Vantage_ever        0.640585
+Name: vant_cat, dtype: float64, Vantage<700             0.197691
+700<Vantage<750         0.357597
+750<Vantage             0.409521
+Vantage<700_ever        0.342747
+700<Vantage<750_ever    0.496646
+750<Vantage_ever        0.640667
+Name: vant_cat, dtype: float64, Vantage<700             0.197698
+700<Vantage<750         0.356701
+750<Vantage             0.408549
+Vantage<700_ever        0.343188
+700<Vantage<750_ever    0.496075
+750<Vantage_ever        0.640593
+Name: vant_cat, dtype: float64, Vantage<700             0.196701
+700<Vantage<750         0.354736
+750<Vantage             0.408812
+Vantage<700_ever        0.342370
+700<Vantage<750_ever    0.494541
+750<Vantage_ever        0.641044
+Name: vant_cat, dtype: float64, Vantage<700             0.195530
+700<Vantage<750         0.354355
+750<Vantage             0.408848
+Vantage<700_ever        0.340977
+700<Vantage<750_ever    0.493688
+750<Vantage_ever        0.640774
+Name: vant_cat, dtype: float64, Vantage<700             0.193486
+700<Vantage<750         0.351568
+750<Vantage             0.408154
+Vantage<700_ever        0.339438
+700<Vantage<750_ever    0.491426
+750<Vantage_ever        0.639485
+Name: vant_cat, dtype: float64, Vantage<700             0.194546
+700<Vantage<750         0.355219
+750<Vantage             0.409124
+Vantage<700_ever        0.339010
+700<Vantage<750_ever    0.493372
+750<Vantage_ever        0.639441
+Name: vant_cat, dtype: float64, Vantage<700             0.193808
+700<Vantage<750         0.355700
+750<Vantage             0.408956
+Vantage<700_ever        0.338012
+700<Vantage<750_ever    0.494053
+750<Vantage_ever        0.639782
+Name: vant_cat, dtype: float64, Vantage<700             0.193475
+700<Vantage<750         0.356357
+750<Vantage             0.409102
+Vantage<700_ever        0.337673
+700<Vantage<750_ever    0.493372
+750<Vantage_ever        0.640619
+Name: vant_cat, dtype: float64, Vantage<700             0.193155
+700<Vantage<750         0.357539
+750<Vantage             0.409144
+Vantage<700_ever        0.337082
+700<Vantage<750_ever    0.493867
+750<Vantage_ever        0.641746
+Name: vant_cat, dtype: float64, Vantage<700             0.192601
+700<Vantage<750         0.359487
+750<Vantage             0.410162
+Vantage<700_ever        0.335656
+700<Vantage<750_ever    0.494680
+750<Vantage_ever        0.643518
+Name: vant_cat, dtype: float64, Vantage<700             0.191631
+700<Vantage<750         0.361077
+750<Vantage             0.410483
+Vantage<700_ever        0.333997
+700<Vantage<750_ever    0.496174
+750<Vantage_ever        0.644722
+Name: vant_cat, dtype: float64, Vantage<700             0.191032
+700<Vantage<750         0.362763
+750<Vantage             0.411259
+Vantage<700_ever        0.332990
+700<Vantage<750_ever    0.498215
+750<Vantage_ever        0.646457
+Name: vant_cat, dtype: float64, Vantage<700             0.192040
+700<Vantage<750         0.366560
+750<Vantage             0.410651
+Vantage<700_ever        0.333890
+700<Vantage<750_ever    0.501739
+750<Vantage_ever        0.647771
+Name: vant_cat, dtype: float64, Vantage<700             0.191757
+700<Vantage<750         0.365643
+750<Vantage             0.409712
+Vantage<700_ever        0.333915
+700<Vantage<750_ever    0.500948
+750<Vantage_ever        0.647963
+Name: vant_cat, dtype: float64, Vantage<700             0.190225
+700<Vantage<750         0.362148
+750<Vantage             0.409589
+Vantage<700_ever        0.333272
+700<Vantage<750_ever    0.498399
+750<Vantage_ever        0.648551
+Name: vant_cat, dtype: float64, Vantage<700             0.188767
+700<Vantage<750         0.359943
+750<Vantage             0.409495
+Vantage<700_ever        0.332645
+700<Vantage<750_ever    0.496288
+750<Vantage_ever        0.648921
+Name: vant_cat, dtype: float64, Vantage<700             0.187878
+700<Vantage<750         0.358664
+750<Vantage             0.409033
+Vantage<700_ever        0.332967
+700<Vantage<750_ever    0.494679
+750<Vantage_ever        0.649333
+Name: vant_cat, dtype: float64, Vantage<700             0.187878
+700<Vantage<750         0.361360
+750<Vantage             0.409455
+Vantage<700_ever        0.333337
+700<Vantage<750_ever    0.497266
+750<Vantage_ever        0.650414
+Name: vant_cat, dtype: float64, Vantage<700             0.189258
+700<Vantage<750         0.363589
+750<Vantage             0.409650
+Vantage<700_ever        0.334944
+700<Vantage<750_ever    0.499912
+750<Vantage_ever        0.652479
+Name: vant_cat, dtype: float64, Vantage<700             0.189782
+700<Vantage<750         0.364780
+750<Vantage             0.409058
+Vantage<700_ever        0.336442
+700<Vantage<750_ever    0.501133
+750<Vantage_ever        0.653743
+Name: vant_cat, dtype: float64, Vantage<700             0.190999
+700<Vantage<750         0.365790
+750<Vantage             0.409599
+Vantage<700_ever        0.337610
+700<Vantage<750_ever    0.503516
+750<Vantage_ever        0.655610
+Name: vant_cat, dtype: float64, Vantage<700             0.192158
+700<Vantage<750         0.366699
+750<Vantage             0.410077
+Vantage<700_ever        0.338917
+700<Vantage<750_ever    0.504401
+750<Vantage_ever        0.657398
+Name: vant_cat, dtype: float64]

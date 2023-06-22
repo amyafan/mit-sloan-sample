@@ -1,0 +1,3 @@
+slurmstepd: error: Job 40529979 exceeded memory limit (169807244 > 167772160), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 40529979 ON node1328 CANCELLED AT 2022-01-28T16:27:16 ***

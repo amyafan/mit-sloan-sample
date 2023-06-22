@@ -1,0 +1,18 @@
+Done with quarter 1: 200509
+Done with quarter 2: 200512
+3_NY_Fed_Balances_Others.py:191: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+3_NY_Fed_Balances_Others.py:191: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  derog_type['sd'] = (derog_type.status_category >= 4) * 1
+Traceback (most recent call last):
+  File "3_NY_Fed_Balances_Others.py", line 311, in <module>
+    final_stats = pd.concat(allrowlist, axis = 1).T
+NameError: name 'allrowlist' is not defined

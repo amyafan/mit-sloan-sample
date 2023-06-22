@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "2_mortgages_fico.py", line 88, in <module>
+    final.to_csv(outfile) 
+  File "/home/afan/.local/lib/python3.8/site-packages/pandas/core/generic.py", line 3387, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/home/afan/.local/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1083, in to_csv
+    csv_formatter.save()
+  File "/home/afan/.local/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 228, in save
+    with get_handle(
+  File "/home/afan/.local/lib/python3.8/site-packages/pandas/io/common.py", line 642, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'temp//2_mort_fico.csv'

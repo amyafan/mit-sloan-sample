@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "1_Drawing_10_Percent_of_IDs.py", line 34, in <module>
+    infilestr = output + "1_inandout.parquet"
+NameError: name 'output' is not defined

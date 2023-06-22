@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "5_Student_Debt_Age.py", line 138, in <module>
+    a = mon1[['consumer_id', 'consumer_age_archive']].drop_duplicates().groupby('consumer_age_archive').count()
+NameError: name 'mon1' is not defined

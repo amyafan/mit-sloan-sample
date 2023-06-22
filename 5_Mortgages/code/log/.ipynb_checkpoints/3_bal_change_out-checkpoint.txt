@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "3_bal_change.py", line 60, in <module>
+    biao = pd.read_parquet(biao_str).reset_index()
+  File "/home/afan/.local/lib/python3.8/site-packages/pandas/io/parquet.py", line 459, in read_parquet
+    return impl.read(
+  File "/home/afan/.local/lib/python3.8/site-packages/pandas/io/parquet.py", line 221, in read
+    return self.api.parquet.read_table(
+  File "/home/afan/.local/lib/python3.8/site-packages/pyarrow/parquet.py", line 1941, in read_table
+    return dataset.read(columns=columns, use_threads=use_threads,
+  File "/home/afan/.local/lib/python3.8/site-packages/pyarrow/parquet.py", line 1776, in read
+    table = self._dataset.to_table(
+  File "pyarrow/_dataset.pyx", line 491, in pyarrow._dataset.Dataset.to_table
+  File "pyarrow/_dataset.pyx", line 3235, in pyarrow._dataset.Scanner.to_table
+  File "pyarrow/error.pxi", line 143, in pyarrow.lib.pyarrow_internal_check_status
+  File "pyarrow/error.pxi", line 114, in pyarrow.lib.check_status
+OSError: Unexpected end of stream

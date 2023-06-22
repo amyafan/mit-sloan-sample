@@ -1,0 +1,4 @@
+INFO: Pandarallel will run on 48 workers.
+INFO: Pandarallel will use Memory file system to transfer data between the main process and workers.
+done calculating first and last balances
+WE DID IT!!!!!!!!111!!1111!1ONEONE
